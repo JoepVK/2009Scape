@@ -418,7 +418,7 @@ public final class NedDialogue extends DialoguePlugin {
 			stage = 46;
 			break;
 		case 50:
-			interpreter.sendDialogues(npc, FacialExpression.HALF_GUILTY, "Well... That's an interesting though. Yes, I think I", "could do something. Give me 3 balls of wool and I", "might be able to do it.");
+			interpreter.sendDialogues(npc, FacialExpression.HALF_GUILTY, "Well... That's an interesting thought. Yes, I think I", "could do something. Give me 3 balls of wool and I", "might be able to do it.");
 			stage = 51;
 			break;
 		case 51:
